@@ -32,12 +32,12 @@ we'll get those values from the queue. Easy!
 package main
 
 import (
-	"fmt"
+    "fmt"
     "github.com/leoxnidas/gspooling"
 )
 
 func main() {
-	queue := gspooling.NewQueue(2)
+    queue := gspooling.NewQueue(2)
     queue.Put(10)
     queue.Put(2)
     
