@@ -5,6 +5,7 @@
   	<a href="https://github.com/leoxnidas/gspooling/releases/latest"><img alt="gspooling release" src="https://img.shields.io/github/release/gspooling/gspooling.svg"/></a>
     <a href="https://github.com/leoxnidas/gspooling/issues" ><img alt="issues" src="https://img.shields.io/github/issues/leoxnidas/gspooling.svg"/></a>
     <a href="/LICENSE"><img alt="license" src="https://img.shields.io/badge/license-MIT-blue.svg"/></a>
+    <a href="https://github.com/goreleaser"><img alt="Powered By: gspooling" src="https://img.shields.io/badge/powered%20by-gspooling-green.svg"></a>
   </p>
 </p>
 
