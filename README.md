@@ -2,7 +2,7 @@
   <h3 align="center">gspooling</h3>
   <p align="center">Asynchronous, thread-safe, fixed-size, buffered and easy to use fifo queue.</p>
   <p align="center">
-  	<a href="https://github.com/leoxnidas/gspooling/releases/latest"><img alt="gspooling release" src="https://img.shields.io/github/release/qubyte/rubidium.svg"/></a>
+  	<a href="https://github.com/leoxnidas/gspooling/releases/latest"><img alt="gspooling release" src="https://img.shields.io/github/release/gspooling/gspooling.svg"/></a>
     <a href="https://github.com/leoxnidas/gspooling/issues" ><img alt="issues" src="https://img.shields.io/github/issues/leoxnidas/gspooling.svg"/></a>
     <a href="/LICENSE"><img alt="license" src="https://img.shields.io/badge/license-MIT-blue.svg"/></a>
   </p>
